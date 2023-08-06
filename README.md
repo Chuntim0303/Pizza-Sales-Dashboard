@@ -1,6 +1,6 @@
 # 🍕Pizza-Sales-Dashboard
 
-### ABout Data
+### About Data
 The dashboard is constructed using four datasets: order_details, orders, pizza types, and pizzas.
 
 ### Highlights
