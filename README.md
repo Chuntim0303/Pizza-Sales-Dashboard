@@ -13,6 +13,4 @@ The dashboard is constructed using four datasets: order_details, orders, pizza t
 
 ### 📊 Visualization
 
-[Power BI](Link)
-
 ![Screenshot_3](https://github.com/Chuntim0303/Portfolio/assets/126696701/5f40332c-a75e-43e0-b132-e91113f081cc)
