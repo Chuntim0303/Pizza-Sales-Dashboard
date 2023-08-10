@@ -13,4 +13,7 @@ The dashboard is constructed using four datasets: order_details, orders, pizza t
 
 ### 📊 Visualization
 
-![Screenshot_3](https://github.com/Chuntim0303/Portfolio/assets/126696701/5f40332c-a75e-43e0-b132-e91113f081cc)
+![Screenshot_13](https://github.com/Chuntim0303/Pizza-Sales-Dashboard/assets/126696701/a5f87dc8-f4ee-42e0-9a7b-197097901014)
+
+![Screenshot_12](https://github.com/Chuntim0303/Pizza-Sales-Dashboard/assets/126696701/d505a2da-1e6b-4e03-a01a-09228a14af48)
+
